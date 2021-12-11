@@ -1,0 +1,3 @@
+ssh -X -t username@ssh.edu.liu.se ssh -X olympen1-1xx # xx = 01-17
+
+module add courses/TBMI26/2019-02-20.3

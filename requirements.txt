@@ -1,0 +1,11 @@
+testresources
+numpy >= 1.16.0
+opencv-python
+tensorflow==1.9
+keras==2.2.4
+PyYAML
+sklearn
+gdown
+scikit-plot
+pydensecrf
+
